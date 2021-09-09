@@ -1,5 +1,8 @@
 # LSTM-Stock-Predictor
 
+### Overview
+* will use deep learning recurrent neural networks to model bitcoin closing prices. One model will use the FNG indicators to predict the closing price while the second model will use a window of closing prices to predict the nth closing price.
+
 * Which model has a lower loss?
 
 If we look at both the models evaluation we can compare them and see that the stock predictor using the closing price had a lower loss. The loss for the closing price predictor was 0.053, and the fng predictor had a loss of 0.148. Based on these values we can conclude that the closing price had a lower loss.
