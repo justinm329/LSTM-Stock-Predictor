@@ -42,6 +42,7 @@ For both models a window of 1 worked best, however the closing predictor was bet
 `pip install --upgrade tensorflow'
 
 `pip install keras'
+`pip install keras`
 
 `pip install -U scikit-learn`
 
