@@ -33,12 +33,19 @@ For both models a window of 1 worked best, however the closing predictor was bet
 - [sklearn](https://scikit-learn.org/stable/)
 
 ## Installations
-'pip install pandas'
-'pip install numpy'
-'pip install hvplot'
-'pip install --upgrade tensorflow'
-'pip install keras'
-'pip install -U scikit-learn'
+`pip install pandas'
+
+`pip install numpy'
+
+`pip install hvplot'
+
+`pip install --upgrade tensorflow'
+
+`pip install keras'
+
+`pip install -U scikit-learn`
+
+`code`
 
 ## Contact Informtion
 - **Justin Farnan**
